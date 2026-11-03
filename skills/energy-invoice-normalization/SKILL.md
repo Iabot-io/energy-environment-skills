@@ -26,7 +26,7 @@ Trabaja con facturas, contratos, puntos de suministro y lecturas del periodo. Ne
 
 ## Procedimiento
 
-1. Identifica suministro, contador, periodo facturado y tipo de lectura de cada documento.
+1. Identifica suministro, contador, periodo facturado, moneda y tipo de lectura de cada documento. Una suma de importes sin moneda confirmada es solo nominal, no un total monetario consolidado.
 2. Separa energía, potencia, peajes, servicios, impuestos y abonos según su denominación real.
 3. Normaliza unidades y conserva el dato original; distingue consumo medido, estimado y regularizado.
 4. Detecta periodos solapados, facturas rectificativas y huecos antes de sumar costes o consumos.

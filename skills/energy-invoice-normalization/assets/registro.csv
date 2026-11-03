@@ -1,1 +1,1 @@
-suministro,factura,inicio,fin,tipo_lectura,energia,unidad,potencia,coste_energia,otros,impuestos,total,incidencia
+suministro,factura,documento_rectificado,inicio,fin,tipo_lectura,energia,unidad,potencia,coste_energia,otros,impuestos,total,moneda,vigencia_documento,estado_dato,incidencia
